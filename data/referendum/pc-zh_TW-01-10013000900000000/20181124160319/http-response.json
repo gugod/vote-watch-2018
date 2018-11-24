@@ -1,0 +1,16 @@
+{
+   "content" : "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>HiNetCDN/1808</center>\r\n</body>\r\n</html>\r\n",
+   "headers" : {
+      "connection" : "keep-alive",
+      "content-length" : "174",
+      "content-type" : "text/html",
+      "date" : "Sat, 24 Nov 2018 16:03:19 GMT",
+      "server" : "HiNetCDN/1808",
+      "x-cache" : "MISS"
+   },
+   "protocol" : "HTTP/1.1",
+   "reason" : "Bad Gateway",
+   "status" : "502",
+   "success" : "",
+   "url" : "http://referendum.2018.nat.gov.tw/pc/zh_TW/01/10013000900000000.html"
+}
