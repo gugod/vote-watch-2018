@@ -1,0 +1,11 @@
+{
+   "content" : "Could not read from socket: 'Connection reset by peer'\n",
+   "headers" : {
+      "content-length" : 55,
+      "content-type" : "text/plain"
+   },
+   "reason" : "Internal Exception",
+   "status" : 599,
+   "success" : "",
+   "url" : "http://referendum.2018.nat.gov.tw/pc/zh_TW/07/10014000400000000.html"
+}
