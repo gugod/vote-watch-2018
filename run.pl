@@ -24,7 +24,9 @@ for my $k (@grabs) {
         $urls = [$urls];
     }
     for my $url (@$urls) {
-        my ($fn) = $url =~ m{/([^/]+)\.html$};
+        my ($fn) = $url =~ m{\.gov\.tw/(.+)\.html$};
+        $fn =~ s{/}{-}g;
+
         my $now = time;
         my ($sec, $min, $hour, $mday, $mon, $year) = gmtime(time);
         $year += 1900;
