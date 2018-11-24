@@ -1,0 +1,16 @@
+{
+   "content" : "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n",
+   "headers" : {
+      "connection" : "keep-alive",
+      "content-length" : "162",
+      "content-type" : "text/html; charset=utf-8",
+      "date" : "Sat, 24 Nov 2018 15:26:12 GMT",
+      "server" : "HiNetCDN/1808",
+      "x-cache" : "MISS, EXPIRED, EXPIRED"
+   },
+   "protocol" : "HTTP/1.1",
+   "reason" : "Not Found",
+   "status" : "404",
+   "success" : "",
+   "url" : "http://referendum.2018.nat.gov.tw/pc/zh_TW/03/63000002300000000.html"
+}
